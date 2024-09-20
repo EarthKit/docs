@@ -1,18 +1,18 @@
 ---
-title: Documentation
-next: first-page
+title: EarthKit Documentation Site
+next: about
+cascade:
+  type: docs
 ---
 
-This is a demo of the theme's documentation layout.
+Documentation site for EarthKit and EarthKit Agent.
 
-## Hello, World!
+{{< callout type="warning" >}}
+  This site is under construction.
+{{< /callout >}}
 
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+{{< cards >}}
+  {{< card link="roadmap/" title="Roadmap" icon="roadmap" >}}
+  {{< card link="agent/" title="Agent" icon="bot" >}}
+  {{< card link="toolkit/" title="Toolkit" icon="hammer" >}}
+{{< /cards >}}
