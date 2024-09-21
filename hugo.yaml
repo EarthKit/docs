@@ -20,29 +20,13 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Join our Discord ↗
+      url: "https://discord.gg/X3YRuwZBNn"
       weight: 1
-    - name: About
-      pageRef: /about
-      weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
-      weight: 3
     - name: Search
-      weight: 4
+      weight: 3
       params:
         type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/earthkit/docs"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/earthkit_app"
-      params:
-        icon: x-twitter
 
 params:
   navbar:

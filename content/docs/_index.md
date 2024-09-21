@@ -1,6 +1,5 @@
 ---
 title: EarthKit Documentation Site
-next: about
 cascade:
   type: docs
 ---
