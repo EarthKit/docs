@@ -20,7 +20,7 @@ markup:
 
 menu:
   main:
-    - name: Join our Discord ↗
+    - name: Get Help on Discord ↗
       url: "https://discord.gg/X3YRuwZBNn"
       weight: 1
     - name: Search
