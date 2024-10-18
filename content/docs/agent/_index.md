@@ -1,5 +1,5 @@
 ---
-title: Agent Documentation
+title: Agent
 next: what-does-it-do
 ---
 
