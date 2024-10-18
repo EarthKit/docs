@@ -4,13 +4,9 @@ cascade:
   type: docs
 ---
 
-Documentation site for EarthKit and EarthKit Agent.
-
-{{< callout type="warning" >}}
-  This site is under construction.
-{{< /callout >}}
+Documentation site for EarthKit.
 
 {{< cards >}}
-  {{< card link="agent/" title="Agent" icon="bot" >}}
-  {{< card link="toolkit/" title="Toolkit" icon="hammer" >}}
+  {{< card link="toolkit/" title="EarthKit.app" icon="hammer" >}}
+  {{< card link="agent/" title="EarthKit Agent" icon="bot" >}}
 {{< /cards >}}

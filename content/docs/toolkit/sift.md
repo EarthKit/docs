@@ -1,5 +1,6 @@
 ---
 title: Sift
+weight: 1
 ---
 
 [EarthKit Sift](https://earthkit.app/sift) is an interface for browsing through map, streetview, and satellite imagery of coordinates without losing track of your place in the list. 
