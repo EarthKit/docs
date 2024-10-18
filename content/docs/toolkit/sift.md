@@ -9,7 +9,6 @@ Sift is good for geolocation if you:
 - Have a list of possible coordinates for an image
 - Want to find the most likely coordinate for an image by either going through the images yourself or by asking the AI to help you
 
-View demo: [Youtube](https://www.youtube.com/watch?v=AcRr-K_J-xY)
 
 ## How to use Sift to geolocate an image
 
@@ -32,5 +31,7 @@ Iterate through the coordinates, and match the satellite, streetview, and map im
 ![Iterate through the coordinates](./images/EarthKitSiftLabel.gif)
 
 ### (Optional) Use AI to enhance metadata & sort
+
+{{< youtube J_pja8AdjSc >}}
 
 {{% /steps %}}
