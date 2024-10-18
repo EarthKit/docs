@@ -33,6 +33,6 @@ Iterate through the coordinates, and match the satellite, streetview, and map im
 
 ### (Optional) Use AI to enhance metadata & sort
 
-{{< youtube J_pja8AdjSc >}}
-
 {{% /steps %}}
+
+{{< youtube J_pja8AdjSc >}}
